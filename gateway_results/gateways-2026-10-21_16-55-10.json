@@ -1,0 +1,390 @@
+{
+    "status": "success",
+    "result": [
+        {
+            "address_details": [
+                {
+                    "address": "128.77.50.254",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "128.77.50.255",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                }
+            ],
+            "zone": "US Northwest",
+            "addresses": [
+                "128.77.50.254",
+                "128.77.50.255"
+            ],
+            "zone_subnet": [
+                "153.72.0.0/16",
+                "34.100.64.0/19",
+                "130.41.0.0/16",
+                "128.77.0.0/17",
+                "75.125.0.0/16",
+                "208.127.0.0/16",
+                "144.125.0.0/16",
+                "134.238.0.0/16",
+                "165.1.128.0/17",
+                "159.234.0.0/16",
+                "134.231.128.0/17",
+                "74.221.128.0/20",
+                "168.149.240.0/21",
+                "66.159.192.0/19",
+                "169.224.128.0/18",
+                "137.83.192.0/18",
+                "140.209.192.0/18",
+                "69.84.192.0/20",
+                "165.85.0.0/16"
+            ],
+            "addresses_v6": [],
+            "address_details_v6": [],
+            "zone_subnet_v6": [],
+            "zone_subnet_v6_details": []
+        },
+        {
+            "address_details": [
+                {
+                    "address": "130.41.210.35",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "165.1.172.165",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.174.235",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.174.236",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.174.142",
+                    "serviceType": "gp_gateway",
+                    "addressType": "network_load_balancer",
+                    "create_time": 1746210296,
+                    "network_load_balancer_active": true
+                }
+            ],
+            "zone": "US Southeast",
+            "addresses": [
+                "130.41.210.35",
+                "165.1.172.165",
+                "169.224.174.235",
+                "169.224.174.236",
+                "169.224.174.142"
+            ],
+            "zone_subnet": [
+                "153.72.0.0/16",
+                "130.41.0.0/16",
+                "128.77.0.0/17",
+                "75.125.0.0/16",
+                "208.127.0.0/16",
+                "144.125.0.0/16",
+                "134.238.0.0/16",
+                "165.1.128.0/17",
+                "159.234.0.0/16",
+                "134.231.128.0/17",
+                "74.221.128.0/20",
+                "34.103.0.0/16",
+                "168.149.240.0/21",
+                "66.159.192.0/19",
+                "169.224.128.0/18",
+                "137.83.192.0/18",
+                "34.99.0.0/16",
+                "140.209.192.0/18",
+                "69.84.192.0/20",
+                "165.85.0.0/16"
+            ],
+            "addresses_v6": [],
+            "address_details_v6": [],
+            "zone_subnet_v6": [],
+            "zone_subnet_v6_details": []
+        },
+        {
+            "address_details": [
+                {
+                    "address": "169.224.165.248",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "128.77.70.193",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "128.77.70.194",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.165.249",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.165.250",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.165.251",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "165.85.127.162",
+                    "serviceType": "gp_gateway",
+                    "addressType": "network_load_balancer",
+                    "network_load_balancer_active": true
+                }
+            ],
+            "zone": "US South",
+            "addresses": [
+                "169.224.165.248",
+                "128.77.70.193",
+                "128.77.70.194",
+                "169.224.165.249",
+                "169.224.165.250",
+                "169.224.165.251",
+                "165.85.127.162"
+            ],
+            "zone_subnet": [
+                "134.238.0.0/16",
+                "153.72.0.0/16",
+                "66.159.192.0/19",
+                "165.1.128.0/17",
+                "169.224.128.0/18",
+                "137.83.192.0/18",
+                "74.221.128.0/20",
+                "140.209.192.0/18",
+                "130.41.0.0/16",
+                "168.149.240.0/21",
+                "159.234.0.0/16",
+                "128.77.0.0/17",
+                "134.231.128.0/17",
+                "75.125.0.0/16",
+                "69.84.192.0/20",
+                "208.127.0.0/16",
+                "165.85.0.0/16",
+                "144.125.0.0/16"
+            ],
+            "addresses_v6": [],
+            "address_details_v6": [],
+            "zone_subnet_v6": [],
+            "zone_subnet_v6_details": []
+        },
+        {
+            "address_details": [
+                {
+                    "address": "128.77.40.75",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "208.127.226.183",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "128.77.40.76",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "208.127.81.214",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "208.127.81.215",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "208.127.94.237",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.156.142",
+                    "serviceType": "gp_gateway",
+                    "addressType": "network_load_balancer",
+                    "create_time": 1744741449,
+                    "network_load_balancer_active": true
+                }
+            ],
+            "zone": "US East",
+            "addresses": [
+                "128.77.40.75",
+                "208.127.226.183",
+                "128.77.40.76",
+                "208.127.81.214",
+                "208.127.81.215",
+                "208.127.94.237",
+                "169.224.156.142"
+            ],
+            "zone_subnet": [
+                "153.72.0.0/16",
+                "34.100.64.0/19",
+                "130.41.0.0/16",
+                "128.77.0.0/17",
+                "34.124.64.0/19",
+                "75.125.0.0/16",
+                "208.127.0.0/16",
+                "144.125.0.0/16",
+                "134.238.0.0/16",
+                "165.1.128.0/17",
+                "159.234.0.0/16",
+                "134.231.128.0/17",
+                "74.221.128.0/20",
+                "168.149.240.0/21",
+                "66.159.192.0/19",
+                "169.224.128.0/18",
+                "137.83.192.0/18",
+                "140.209.192.0/18",
+                "69.84.192.0/20",
+                "165.85.0.0/16"
+            ],
+            "addresses_v6": [],
+            "address_details_v6": [],
+            "zone_subnet_v6": [],
+            "zone_subnet_v6_details": []
+        },
+        {
+            "address_details": [
+                {
+                    "address": "128.77.64.35",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.182.244",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "128.77.64.36",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.182.245",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.182.246",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "169.224.182.247",
+                    "serviceType": "gp_gateway",
+                    "addressType": "active",
+                    "create_time": 1761346579,
+                    "allow_listed": true
+                },
+                {
+                    "address": "208.127.105.55",
+                    "serviceType": "gp_gateway",
+                    "addressType": "network_load_balancer",
+                    "create_time": 1748021301,
+                    "network_load_balancer_active": true
+                }
+            ],
+            "zone": "US Central",
+            "addresses": [
+                "128.77.64.35",
+                "169.224.182.244",
+                "128.77.64.36",
+                "169.224.182.245",
+                "169.224.182.246",
+                "169.224.182.247",
+                "208.127.105.55"
+            ],
+            "zone_subnet": [
+                "153.72.0.0/16",
+                "130.41.0.0/16",
+                "128.77.0.0/17",
+                "75.125.0.0/16",
+                "208.127.0.0/16",
+                "144.125.0.0/16",
+                "134.238.0.0/16",
+                "165.1.128.0/17",
+                "159.234.0.0/16",
+                "134.231.128.0/17",
+                "74.221.128.0/20",
+                "34.103.0.0/16",
+                "168.149.240.0/21",
+                "66.159.192.0/19",
+                "169.224.128.0/18",
+                "137.83.192.0/18",
+                "34.99.0.0/16",
+                "140.209.192.0/18",
+                "69.84.192.0/20",
+                "165.85.0.0/16"
+            ],
+            "addresses_v6": [],
+            "address_details_v6": [],
+            "zone_subnet_v6": [],
+            "zone_subnet_v6_details": []
+        }
+    ]
+}
